@@ -2,7 +2,7 @@
     "name": "atlimit8/content-types",
     "description": "Simple content (MIME) type detection by filename.",
     "type": "library",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "license": "MIT",
     "autoload": {
         "psr-4": {
