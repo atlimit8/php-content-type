@@ -1,0 +1,19 @@
+{
+    "name": "atlimit8/content-types",
+    "description": "Simple content (MIME) type detection by filename.",
+    "type": "library",
+    "version": "0.0.3",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atlimit8\\ContentTypes\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atlimit8",
+            "email": "atlimit8-vcs@gmx.com"
+        }
+    ],
+    "require": {}
+}
